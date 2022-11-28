@@ -10,7 +10,7 @@ function Header() {
             <h1>Relatório de Vendas</h1>
             <p>
               Desenvolvido por
-              <a href="https://github.com/luccassantos4">@luccassantos4</a>
+              <a href="https://github.com/luccassantos4"> @luccassantos4</a>
             </p>
         </div>
     </header>
