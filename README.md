@@ -7,7 +7,7 @@
 
 <div align="center">
   <h4>Tela inicial Preview</h4>
-<img height="943" width="1915" src="https://user-images.githubusercontent.com/62127980/204376816-c1b49e9a-59be-4467-ba0e-31b8986b81d2.png">
+<img height="500" width="1915" src="https://user-images.githubusercontent.com/62127980/204376816-c1b49e9a-59be-4467-ba0e-31b8986b81d2.png">
 </div><br><br>
 
 <div align="center">
