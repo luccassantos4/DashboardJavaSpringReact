@@ -1,7 +1,13 @@
-# dsmeta
+# dsmeta | (Relatório de vendas)
 
 <ul>
-<li>???</li>
+<li>Java Spring Boot(Back-end)</li>
+<li>Lombok</li>
+<li>Banco de dados H2 </li>
+<li>React js(Front-end)</li>
+<li>Lombok</li>
+<li>API Twilio (Envio de notificação via SMS) </li>
+
 </ul>
 
 
